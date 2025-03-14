@@ -37,7 +37,7 @@
 </picture>
 <br />
 
-<h3 align="left">Atualmente Aprendendo</h3>
+<h3 align="center">Atualmente Aprendendo</h3>
 <ul align="left">
   <li>Aprofundando meu conhecimento de Programação e IA desde o começo com a Faculdade.</li>
   <li>Melhorando minhas habilidades de Computação/TI na AMF</li>
