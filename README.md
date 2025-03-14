@@ -43,7 +43,6 @@
   <li>Melhorando minhas habilidades de Computação/TI na AMF</li>
   <li>Buscando Aprender um pouco de tudo no ramo da Ciencia e Tecnlogoia</li>
   <li>Rumo a um Futuro melhor, tanto como pessoa quanto profissional.</li>
-  <li></li>
 <br />
 <br />
 <br />
