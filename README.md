@@ -42,6 +42,8 @@
   <li>Aprofundando meu conhecimento em Programação e IA.</li>
   <li>aprendendo Programação do começo!</li>
   <li>Melhorando minhas habilidades de computação na AMF</li>
+  <li>Buscando Aprender um pouco de tudo</li>
+  <li>Em busca de ser um ser humano melhor</li>
 <br />
 <br />
 <br />
