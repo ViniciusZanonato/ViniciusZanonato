@@ -39,11 +39,11 @@
 
 <h3 align="left">Atualmente Aprendendo</h3>
 <ul align="left">
-  <li>Aprofundando meu conhecimento em Programação e IA.</li>
-  <li>aprendendo Programação do começo!</li>
-  <li>Melhorando minhas habilidades de computação na AMF</li>
-  <li>Buscando Aprender um pouco de tudo</li>
-  <li>Em busca de ser um ser humano melhor</li>
+  <li>Aprofundando meu conhecimento de Programação e IA desde o começo com a Faculdade.</li>
+  <li>Melhorando minhas habilidades de Computação/TI na AMF</li>
+  <li>Buscando Aprender um pouco de tudo no ramo da Ciencia e Tecnlogoia</li>
+  <li>Rumo a um Futuro melhor, tanto como pessoa quanto profissional.</li>
+  <li></li>
 <br />
 <br />
 <br />
