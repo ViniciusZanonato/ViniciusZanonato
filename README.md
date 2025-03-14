@@ -39,6 +39,7 @@
 
 <h3 align="center">Atualmente Aprendendo</h3>
 <ul align="left">
+  <li>Iniciado em Python.</li>
   <li>Aprofundando meu conhecimento de Programação e IA desde o começo com a Faculdade.</li>
   <li>Melhorando minhas habilidades de Computação/TI na AMF</li>
   <li>Buscando Aprender um pouco de tudo no ramo da Ciencia e Tecnlogoia</li>
