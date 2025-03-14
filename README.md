@@ -1,3 +1,5 @@
+<!--Banner-->
+![ViniciusZanonato Banner Image](./bannera.png)
 
 <!--Night Owl image-->
 <div>
