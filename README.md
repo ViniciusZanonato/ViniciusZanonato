@@ -1,5 +1,5 @@
 <!--Banner-->
-![Christmas Banner](./cyberpunk_christmas_programming_banner.png)
+![Christmas Banner](.\Santa.png)
 
 <!--Animated Header-->
 <div align="center">
