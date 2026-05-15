@@ -1,126 +1,99 @@
-<!--Banner-->
-![Christmas Banner](Santa.png)
-
-<!--Animated Header-->
 <div align="center">
-  <img src="./christmas_header.svg" width="100%">
+
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff9f,100:0d0d0d&height=200&section=header&text=VINICIUS%20ZANONATO&fontSize=40&fontColor=00ff9f&fontAlignY=38&desc=BI%20Developer%20%2F%2F%20Systems%20Engineer%20%2F%2F%20AI%20Builder&descColor=7b2fff&descAlignY=60&animation=fadeIn" width="100%" />
+
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF9F&background=0D0D0D00&center=true&vCenter=true&width=600&lines=%3E+Inicializando+sistema...;%3E+CARLOS+VINICIUS+ZANONATO;%3E+BI+Developer+%40+AMF+Gest%C3%A3o;%3E+Stack%3A+Next.js+%2F+TypeScript+%2F+Supabase;%3E+Automatizando+o+caos+desde+2023;%3E+%5BSISTEMA+ONLINE%5D" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- SOCIAL BADGES -->
+<a href="mailto:viniciuszanona@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00ff9f" />
+</a>
+<a href="https://linkedin.com/in/viniciuszanonato">
+  <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=7b2fff" />
+</a>
+<a href="https://viniciuszanonato.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00ff9f" />
+</a>
+<a href="https://github.com/ViniciusZanonato">
+  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff" />
+</a>
+
 </div>
 
-<!--Night Owl image (Keeping original as backup or secondary)-->
-<!-- <img align="right" width="20%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"> -->
+---
 
-<br/>
+```bash
+$ whoami
+> Carlos Vinicius Garcia Zanonato
+> BI Developer @ AMF Gestão — Recanto Maestro, RS
 
-<!--Intro-->
-<h3 align="center">🎅 Ho Ho Ho! Bem-vindo ao meu Universo Digital! 🎅</h3>
-<p align="center">
-  <em>Estudante de SI | Aspirante a Programador | Elfo do Código nas horas vagas</em>
-</p>
+$ cat skills.json
+```
 
-<p align="center">
-  ✨ Estudante da Vida :) <br>
-  🌱 Cultivando conhecimento como quem cultiva árvores de natal. <br>
-  ✍ Estudante da <a href="https://www2.faculdadeam.edu.br/">Antonio Meneghetti Faculdade</a>. <br>
-  🎁 Contribuindo para o Open Source como presente para a comunidade.
-</p>
+```json
+{
+  "core": ["TypeScript", "Next.js", "React", "Python"],
+  "data": ["Supabase", "PostgreSQL", "Google Sheets API"],
+  "infra": ["Vercel", "Node.js", "REST APIs"],
+  "integrations": ["Make.com", "Pipefy", "Meta Ads API", "Google Gemini"],
+  "tools": ["Git", "Tailwind CSS", "Recharts", "Lucide"],
+  "studying": ["AI/LLMs", "Automatizações", "Sistemas de BI"]
+}
+```
 
-<br/>
+---
 
-<!--Languages and Tools Section-->
-<h2 align="center">🎄 𝙏𝙚𝙘𝙣𝙤𝙡𝙤𝙜𝙞𝙖 𝙚 𝘾𝙤𝙣𝙝𝙚𝙘𝙞𝙢𝙚𝙣𝙩𝙤 🎄</h2>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-    <img alt="GIF description" src="./Skills_Animation_White.gif" width="80%">
-  </picture>
+
+## ⟨ PROJETOS EM DESTAQUE ⟩
+
+<a href="https://github.com/ViniciusZanonato/25-control-amizade">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusZanonato&repo=25-control-amizade&theme=radical&bg_color=0d0d0d&border_color=00ff9f&title_color=00ff9f&text_color=c9d1d9&icon_color=7b2fff" />
+</a>
+<a href="https://github.com/ViniciusZanonato/ZION">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusZanonato&repo=ZION&theme=radical&bg_color=0d0d0d&border_color=7b2fff&title_color=7b2fff&text_color=c9d1d9&icon_color=00ff9f" />
+</a>
+
 </div>
 
-<h3 align="center">🎁 Atualmente Aprendendo</h3>
-<ul align="center" style="list-style-type: none;">
-  <li>🐍 Iniciado em Python.</li>
-  <li>🤖 Aprofundando em IA e Programação.</li>
-  <li>💾 Melhorando skills de TI na AMF.</li>
-  <li>⭐ Rumo a um futuro brilhante!</li>
-</ul>
+---
+
+<div align="center">
+
+## ⟨ STATS DO SISTEMA ⟩
+
+<img src="https://github-readme-stats.vercel.app/api?username=ViniciusZanonato&show_icons=true&theme=radical&bg_color=0d0d0d&border_color=00ff9f&title_color=00ff9f&text_color=c9d1d9&icon_color=7b2fff&hide_border=false&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusZanonato&layout=compact&theme=radical&bg_color=0d0d0d&border_color=7b2fff&title_color=7b2fff&text_color=c9d1d9&hide_border=false" height="165" />
 
 <br/>
 
-<!--Github stats Table-->
-<h2 align="center">🎅 Status Natalinos 🎅</h2>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusZanonato&theme=radical&background=0d0d0d&border=00ff9f&stroke=00ff9f&ring=7b2fff&fire=ff0080&currStreakNum=00ff9f&sideNums=c9d1d9&currStreakLabel=00ff9f&sideLabels=c9d1d9&dates=666666" />
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <!-- Theme: Christmas Colors (Red Title, Green Icons, Dark BG) -->
-        <a href="https://github.com/ViniciusZanonato">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusZanonato&count_private=true&show_icons=true&bg_color=0d1117&title_color=D12323&text_color=ffffff&icon_color=1F8B4C&border_color=FFD700&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/ViniciusZanonato">
-          <img align="center" src="https://streak-stats.demolab.com?user=ViniciusZanonato&background=0d1117&fire=D12323&ring=1F8B4C&sideNums=ffffff&sideLabels=ffffff&dates=FFD700&currStreakNum=ffffff&stroke=FFD700" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Ultimos Presentes (Projetos)</strong></h3>
-      <p align="center">
-        <a href="https://github.com/ViniciusZanonato?tab=repositories">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusZanonato&repo=Conversor-de-Temperatura&show_owner=true&bg_color=0d1117&title_color=D12323&text_color=ffffff&icon_color=1F8B4C&border_color=FFD700" alt="conversor-de-Temperatura" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Ajudantes do Papai Noel</strong></h3>
-      <p align="center">
-        <a href="https://github.com/ViniciusZanonato">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=ViniciusZanonato&limit=2&show_owner=true&combine_all_yearly_contributions=false&bg_color=0d1117&title_color=D12323&text_color=ffffff&icon_color=1F8B4C&border_color=FFD700" alt="Top Contributors" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<!--Contribution Graph-->
-<h2 align="center">❄️ Gráfico de Neve (Contribuição) ❄️</h2>
-<div align="center">
-    <!-- Graph colors updated to Winter/Christmas theme -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusZanonato&bg_color=0d1117&color=ffffff&line=1F8B4C&point=D12323&area=false&hide_border=false" border-radius="15">
 </div>
 
-<br/>
-<br/>
+---
 
-<!--Contact Section-->
-<h2 align="center">⛄ Me Contate ⛄</h2>
 <div align="center">
-  <a href="mailto:viniciuszanona@gmail.com" target="_blank">
-    <img src="./gmail.png" width=50 height=50 alt="Gmail" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.instagram.com/carloszazona" target="_blank">
-    <img src="./instagram.png" width=50 height=50 alt="Instagram" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.github.com/ViniciusZanonato" target="_blank">
-    <img src="./github.png" width=50 height=50 alt="GitHub" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/carlos-vinicius-garcia-zanonato-453832346/" target="_blank">
-    <img src="./linkedin.png" width=50 height=50 alt="LinkedIn" style="margin-bottom: 5px;" />
-  </a>
+
+## ⟨ ATIVIDADE RECENTE ⟩
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusZanonato&bg_color=0d0d0d&color=00ff9f&line=7b2fff&point=ff0080&area=true&area_color=00ff9f&hide_border=true" width="100%" />
+
 </div>
 
-<br/>
+---
 
-<!--Footer-->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D12323,100:1F8B4C&height=100&section=footer&text=Boas%20Festas!&fontSize=30&fontColor=ffffff&fontAlign=50"/>
-</p>
+<div align="center">
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:7b2fff,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%" />
+
+<sub><code>[ SISTEMA VINICIUS v2.0 — AMF GESTÃO — 2026 ]</code></sub>
+
+</div>
