@@ -54,10 +54,11 @@ $ cat skills.json
 ## ⟨ PROJETOS EM DESTAQUE ⟩
 
 <a href="https://github.com/ViniciusZanonato/25-control-amizade">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusZanonato&repo=25-control-amizade&theme=radical&bg_color=0d0d0d&border_color=00ff9f&title_color=00ff9f&text_color=c9d1d9&icon_color=7b2fff" />
+  <img src="https://gh-card.dev/repos/ViniciusZanonato/25-control-amizade.svg?theme=dark" />
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/ViniciusZanonato/ZION">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusZanonato&repo=ZION&theme=radical&bg_color=0d0d0d&border_color=7b2fff&title_color=7b2fff&text_color=c9d1d9&icon_color=00ff9f" />
+  <img src="https://gh-card.dev/repos/ViniciusZanonato/ZION.svg?theme=dark" />
 </a>
 
 </div>
@@ -68,12 +69,12 @@ $ cat skills.json
 
 ## ⟨ STATS DO SISTEMA ⟩
 
-<img src="https://github-readme-stats.vercel.app/api?username=ViniciusZanonato&show_icons=true&theme=radical&bg_color=0d0d0d&border_color=00ff9f&title_color=00ff9f&text_color=c9d1d9&icon_color=7b2fff&hide_border=false&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusZanonato&layout=compact&theme=radical&bg_color=0d0d0d&border_color=7b2fff&title_color=7b2fff&text_color=c9d1d9&hide_border=false" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViniciusZanonato&theme=radical" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViniciusZanonato&theme=radical" height="165" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusZanonato&theme=radical&background=0d0d0d&border=00ff9f&stroke=00ff9f&ring=7b2fff&fire=ff0080&currStreakNum=00ff9f&sideNums=c9d1d9&currStreakLabel=00ff9f&sideLabels=c9d1d9&dates=666666" />
+<img src="https://streak-stats.demolab.com/?user=ViniciusZanonato&theme=radical&background=0d0d0d&border=00ff9f&stroke=00ff9f&ring=7b2fff&fire=ff0080&currStreakNum=00ff9f&sideNums=c9d1d9&currStreakLabel=00ff9f&sideLabels=c9d1d9&dates=666666" />
 
 </div>
 
