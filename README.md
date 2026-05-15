@@ -31,7 +31,7 @@
 ```bash
 $ whoami
 > Carlos Vinicius Garcia Zanonato
-> BI Developer @ AMF Gestão — Recanto Maestro, RS
+> BI Developer @ AMF Gestao -- Recanto Maestro, RS
 
 $ cat skills.json
 ```
@@ -43,7 +43,7 @@ $ cat skills.json
   "infra": ["Vercel", "Node.js", "REST APIs"],
   "integrations": ["Make.com", "Pipefy", "Meta Ads API", "Google Gemini"],
   "tools": ["Git", "Tailwind CSS", "Recharts", "Lucide"],
-  "studying": ["AI/LLMs", "Automatizações", "Sistemas de BI"]
+  "studying": ["AI/LLMs", "Automatizacoes", "Sistemas de BI"]
 }
 ```
 
@@ -91,9 +91,19 @@ $ cat skills.json
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="380" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/%E2%97%88%20STATUS-AVAILABLE-00ff9f?style=for-the-badge&labelColor=0d0d0d" />
+&nbsp;
+<img src="https://img.shields.io/badge/MODE-BUILD%20%2F%2F%20AUTOMATE%20%2F%2F%20SHIP-7b2fff?style=for-the-badge&labelColor=0d0d0d" />
+
+<br/><br/>
+
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:7b2fff,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%" />
 
-<sub><code>[ SISTEMA VINICIUS v2.0 — AMF GESTÃO — 2026 ]</code></sub>
+<img src="https://komarev.com/ghpvc/?username=ViniciusZanonato&style=flat-square&color=00ff9f&label=%E2%9F%A9+SCANS+DO+PERFIL&labelColor=0d0d0d" />
 
 </div>
